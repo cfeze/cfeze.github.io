@@ -1,0 +1,21 @@
+/* /Shared/Footer.razor.rz.scp.css */
+#contact[b-ivhxwnwf90] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.5rem;
+  padding: 5rem 0 3rem;
+  width: 100vw;
+}
+/* /Shared/Header.razor.rz.scp.css */
+#header[b-zp86m30i90] {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  background: rgba(255,255,255,0.75);
+  padding: 1rem;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
