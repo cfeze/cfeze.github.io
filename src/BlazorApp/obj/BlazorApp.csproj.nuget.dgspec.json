@@ -50,12 +50,12 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.2, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.2, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
